@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "smartFarm"
+    }
+  },
+  "defaultProject": "smartFarm",
+  "cli": {
+    "analytics": "b11147b1-5149-4d5a-bc97-308a2d03ac9e"
+  }
 }
