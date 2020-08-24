@@ -50,3 +50,5 @@ You need a few things to get the project running on your machine:-
 #### [Paul Wamaria](https://github.com/Paulwamaria)
 
 #### [Sharon Kerubo](https://github.com/Sharon-Kerubo)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7a66e766ba34e38b1d29e6c61b4acf4)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-212-group-a-frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-212-group-a-frontend&utm_campaign=Badge_Grade_Settings)
